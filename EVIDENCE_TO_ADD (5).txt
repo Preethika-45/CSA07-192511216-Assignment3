@@ -1,0 +1,2 @@
+Save congestion simulation graph; compare with real iperf3 and ss -ti observations.
+Add genuine evidence from your own execution; do not invent measurements.

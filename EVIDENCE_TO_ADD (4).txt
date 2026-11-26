@@ -1,0 +1,2 @@
+Test file/chat under 100–300 ms delay and up to 5% loss; record transfer time, hash and delivery.
+Add genuine evidence from your own execution; do not invent measurements.

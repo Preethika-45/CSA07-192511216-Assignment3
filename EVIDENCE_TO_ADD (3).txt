@@ -1,0 +1,2 @@
+Use browser Network panel for protocol, connection count, cache and 0/50/200 ms delay tests.
+Add genuine evidence from your own execution; do not invent measurements.

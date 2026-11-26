@@ -1,0 +1,2 @@
+Capture TCP handshake and UDP datagrams on loopback; save Wireshark capture; record ss -tunap and loss-test results.
+Add genuine evidence from your own execution; do not invent measurements.

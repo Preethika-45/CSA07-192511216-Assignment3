@@ -1,0 +1,2 @@
+Run dig +trace; measure three public resolvers on first and cached lookups.
+Add genuine evidence from your own execution; do not invent measurements.

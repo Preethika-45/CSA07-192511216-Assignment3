@@ -1,0 +1,2 @@
+Capture TLS 1.3; compare openssl s_client and HTTP/3 browser support.
+Add genuine evidence from your own execution; do not invent measurements.
